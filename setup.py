@@ -7,11 +7,11 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = 'gmplot',
+    name = 'gmplot2',
     version = __version__,
-    author = 'Michael Woods',
-    author_email = 'physicsmichael@gmail.com',
-    url = 'https://github.com/vgm64/gmplot',
+    author = 'Justin Oberg',
+    author_email = 'justin@pondata.com',
+    url = 'https://github.com/pondata/gmplot2',
     description = 'Provide a matplotlib like interface to plotting data with Google Maps',
     long_description=read('README.rst'),
     license='MIT',

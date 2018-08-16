@@ -11,7 +11,7 @@ setup(
     version = __version__,
     author = 'Justin Oberg',
     author_email = 'justin@pondata.com',
-    url = 'https://github.com/pondata/gmplot2',
+    url = 'https://github.com/pondata/gmplot',
     description = 'Provide a matplotlib like interface to plotting data with Google Maps',
     long_description=read('README.rst'),
     license='MIT',
